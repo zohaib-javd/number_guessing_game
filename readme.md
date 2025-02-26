@@ -42,6 +42,11 @@ streamlit run app.py
 
 ---
 
+## 🔗 **Live Link**  
+https://zohaib-javd-number-guessing-game-app-p2zh7d.streamlit.app/
+
+---
+
 ## 🛠 **Technologies Used**  
 - **Python** 🐍  
 - **Streamlit** 🎨  
